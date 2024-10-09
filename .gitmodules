@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:depi-devops-project/api.git
+[submodule "devops"]
+	path = devops
+	url = git@github.com:depi-devops-project/devops.git
