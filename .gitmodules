@@ -4,3 +4,6 @@
 [submodule "devops"]
 	path = devops
 	url = git@github.com:depi-devops-project/devops.git
+[submodule "web"]
+	path = web
+	url = git@github.com:depi-devops-project/web.git
